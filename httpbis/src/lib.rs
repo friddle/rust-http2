@@ -65,6 +65,7 @@ pub use crate::solicit::header::Header;
 pub use crate::solicit::header::Headers;
 pub use crate::solicit::stream_id::StreamId;
 pub use crate::solicit::HttpScheme;
+pub use crate::solicit::end_stream::EndStream;
 
 pub use crate::client::conf::ClientConf;
 pub use crate::client::req::ClientRequest;
